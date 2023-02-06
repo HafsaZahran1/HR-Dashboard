@@ -14,11 +14,12 @@ Human Resource Management is the process of employing people, training them, com
 
 A Company wants to design a HR Management dashboard to analyze the total emloyees, there marital status, and salaries based on gender. The company wants to know the number of active, terminated and the future employees in the company. For the terminated employees they need to know there performance and position based on there location and deparment across the years.
 
-# Dataset Description
+# Dataset Description:
 
 We will be using HR_dashboard.xlsx Dataset attached.
 
-# Project Requirement
+## Project Requirement:
+```
 The dashboard must have a story
 You must have at least 3 KPIs
 You must use at least 2 slicers and make sure it’s connected and working
@@ -29,3 +30,4 @@ Your preparation sheet must be organized, and all pivot tables named
 Must have root cause analysis
 Make sure you’re using appropriate chart types
 The dashboard should have a nice and organized design and colours
+````
