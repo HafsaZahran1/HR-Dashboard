@@ -16,7 +16,7 @@ A Company wants to design a HR Management dashboard to analyze the total emloyee
 
 # Dataset Description:
 
-We will be using HR_dashboard.xlsx Dataset attached.
+We will be using HR_dataset.xlsx Dataset attached.
 
 ## Project Requirement:
 ```
