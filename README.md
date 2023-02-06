@@ -4,7 +4,7 @@ This repository contains my project work in Microsoft Excel.
 ![HR_Dashboard](https://user-images.githubusercontent.com/73903183/216982789-101215c6-bec9-4005-9809-56d35f5575e3.png)
 
 # Welcome
-In this project I learned about how to create an Excel dashboard that has a story.I did build 9 different chart cards that deliver many insghts about data. There were also 5 slicers so users can filter the charts for more analysis. I styled a 1 summerized sheet dashboard.
+In this project I learned  how to create an Excel dashboard that has a story.I did build 9 different chart cards that deliver many insghts about data. There were also 5 slicers so users can filter the charts for more analysis. I styled a 1 summerized sheet dashboard.
 
 # What does HR Management mean?
 
